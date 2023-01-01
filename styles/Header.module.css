@@ -1,0 +1,43 @@
+.header{
+    height:5rem;
+    border:solid 0px; 
+    padding-right:1.5em;
+    padding-left: 1.5em;
+    background-color: #d7dce0;
+}
+.cart-count-container{
+    position: relative;
+    background-color: #c4c8cc;
+    margin-left: 0.5em;
+    border-radius: 5px;
+    box-shadow: 0 5px 10px rgba(154,160,185,.05), 0 15px 40px rgba(166,173,201,.2);
+}
+
+.cart-count{
+    position: absolute;
+    top: -25px;
+    right:0px;
+    padding-right: 0.2em;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+
+
+.header-text{
+ font-weight: 600;
+ font-size: 1.5rem;
+}
+
+.label{
+    margin: 0px;
+}
+
+.label-line{
+    margin: 0px;
+    height:0.2px;
+    color: black;
+    width:70%;
+
+}
+
